@@ -7,9 +7,7 @@
   </a>
 </p>
 <p>This space is dedicated to showcasing my work and projects. By exploring the various folders and files, you will find examples of my skills in coding, and problem-solving. Whether you are a potential employer, a collaborator, or simply someone interested in technology, I hope you will find something of value here.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Heisenberghj7&label=Profile%20views&color=0e75b6&style=flat" alt="Heisenberghj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Heisenberghj7"alt="Heisenberghj7" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailtachafine&label=Profile%20views&color=0e75b6&style=flat" alt="ismailtachafine" /> </p>
 
 ## 😎 About me:
 
