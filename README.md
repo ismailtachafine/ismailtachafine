@@ -22,8 +22,9 @@
 
 <br>
 
-## 🛠️ Languages and Tools
-### 👉 Programming Languages:
+## 🛠️ Languages and Tools:
+
+### 👨🏻‍💻 Programming Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 &emsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -35,7 +36,6 @@
 &emsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 &emsp;
-
 
 ### 👉 Machine Learning:
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -52,7 +52,7 @@
 ### 👉 Big Data Processing:
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
 &emsp;
-<a href="https://spark.apache.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 
 ### 👉 Relational Databases:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -131,7 +131,7 @@
 
 <br>
 
-## 🙌 Connect with me:
+## 🤝 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/ismail-tachafine-687439235/" target="blank">
     <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
