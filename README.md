@@ -24,7 +24,6 @@
 
 ## 🎓 Certifications:
 - 💎 [IBM: Data Engineering Professional Certificate](https://www.credly.com/badges/9dd4efab-869b-4563-a902-742b725df84e)
-- 💎 [IBM: NoSQL, Big Data, and Spark Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2VNRNHY3N4D2)
 - 💎 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2VNRNHY3N4D2" target="_blank" rel="noopener noreferrer">IBM: NoSQL, Big Data, and Spark Foundations Specialization</a>
 
 ## 🙌 Connect with me:
