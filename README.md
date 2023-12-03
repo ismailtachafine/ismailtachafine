@@ -31,7 +31,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 ### Big Data Processing:
-<a target="_blank"><img src="https://seeklogo.com/images/H/hadoop-logo-5DA3672FE8-seeklogo.com.png" alt="hadoop" width="120" height="40"/></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
 &emsp;
 <a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 
