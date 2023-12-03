@@ -28,7 +28,10 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
-
+### Big Data Processing:
+<a target="_blank"><img src="https://seeklogo.com/images/H/hadoop-logo-5DA3672FE8-seeklogo.com.png" alt="hadoop" width="120" height="40"/></a>
+&emsp;
+<a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 
 ### 👉 Frontend Development:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
