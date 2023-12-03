@@ -15,38 +15,23 @@
 
 - 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 
 
-- 🌱 I’m currently learning **Data Engineering,Cloud Computing and Software Engineering** 
+- 🌱 I’m currently learning **Data Engineering, Cloud Computing and DevOps** 
 
-- 📫 Reach me at **Medhajjari9@gmail.com**
+- 📫 Reach me at **ismail.tachafine22@gmail.com**
 
-- 📄 View my Linkedin profil here **[Linkedin ](https://www.linkedin.com/in/mohammedhajjari/)**
+- 📄 View my Linkedin profil here **[Linkedin ](https://www.linkedin.com/in/ismail-tachafine-687439235/)**
 
 <h3 align="left">Languages and Tools:</h3>
 
 <br>
 
 ## 🎓 Certifications:
-- 💎 [Microsoft Certified: Azure Data Fundamentals: DP-900](https://learn.microsoft.com/en-us/users/mohammedhajjari-3905/credentials/f650514676e051ab)
-- 💎 [Microsoft Certified: Azure Data Engineer Associate: DP-203](https://learn.microsoft.com/en-us/users/mohammedhajjari-3905/credentials/f650514676e051ab)
+- 💎 [IBM: Data Engineering Professional Certificate](https://www.credly.com/badges/9dd4efab-869b-4563-a902-742b725df84e)
+- 💎 [IBM: NoSQL, Big Data, and Spark Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2VNRNHY3N4D2)
 
 ## 🙌 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammedhajjari/" target="blank">
+  <a href="https://www.linkedin.com/in/ismail-tachafine-687439235/" target="blank">
     <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://www.kaggle.com/mohammedhajjari" target="blank">
-    <img align="center" alt="Kaggle" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
-  </a>
-   <a href="https://twitter.com/Data_Medd" target="blank">
-    <img align="center" alt="Twitter" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
-  </a>
-  
 
-## 📊 My Github Stats:
-
-<br/>
-   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heisenberghj7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Heisenberghj7" /></p>
-
-<br/>
-<br/>
