@@ -34,6 +34,8 @@
 ### 👉 Data Visualization:
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 &emsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="" alt="seaborn" width="40" height="40"/></a>
+&emsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 
 ### 👉 Machine Learning:
@@ -55,6 +57,8 @@
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
 &emsp;
 <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
+&emsp;
+<a href="https://github.com/apache/incubator-airflow"> <img src="https://raw.githubusercontent.com/apache/incubator-airflow/master/airflow/www/static/images/icon-airflow.svg" alt="Airflow icon"> </a>
 &emsp;
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 
