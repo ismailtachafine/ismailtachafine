@@ -62,7 +62,7 @@
 &emsp;
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" width="40" height="40"></a>
 &emsp;
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="kafka" width="40" height="40"/></a>
 
 ### 👉 Relational Databases:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
