@@ -79,7 +79,7 @@
 &emsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 &emsp;
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" alt="jenkins" width="40" height="40"/></a>
 &emsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 
