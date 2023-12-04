@@ -45,7 +45,7 @@
 &emsp;
 <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 &emsp;
-<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" width="40" height="40"/></a>
 &emsp;
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 
