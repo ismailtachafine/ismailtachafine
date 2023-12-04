@@ -43,7 +43,7 @@
 ### 👉 Machine Learning:
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 &emsp;
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*tP-dw4Oj_42BYbkdtYbjMA.png" alt="pyspark" width="40" height="40"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="pyspark" width="40" height="40"/></a>
 &emsp;
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" width="40" height="40"/></a>
 &emsp;
