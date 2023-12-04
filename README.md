@@ -43,9 +43,9 @@
 ### 👉 Machine Learning:
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 &emsp;
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 &emsp;
-<a href="https://numpy.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
 &emsp;
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 
@@ -58,11 +58,11 @@
 ### 👉 Big Data Processing:
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
 &emsp;
-<a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 &emsp;
-<a href="https://github.com/apache/incubator-airflow"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" width="40" height="40"></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" width="40" height="40"></a>
 &emsp;
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 
 ### 👉 Relational Databases:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -92,6 +92,8 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &emsp;
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/></a>
+&emsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a>
 
 ### 👉 Backend Development:
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
