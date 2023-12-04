@@ -60,7 +60,7 @@
 &emsp;
 <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/></a>
 &emsp;
-<a href="https://github.com/apache/incubator-airflow"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_2.svg?api=v2" alt="Airflow icon"> </a>
+<a href="https://github.com/apache/incubator-airflow"><img src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_2.svg?api=v2" alt="Airflow" width="40" height="40"></a>
 &emsp;
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 
