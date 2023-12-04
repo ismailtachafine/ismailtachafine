@@ -37,6 +37,8 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="" alt="seaborn" width="40" height="40"/></a>
 &emsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+&emsp;
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Power_BI_icon.svg/1024px-Power_BI_icon.svg" alt="opencv" width="40" height="40"/></a>
 
 ### 👉 Machine Learning:
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
