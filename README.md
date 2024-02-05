@@ -114,7 +114,7 @@
 ## 🎓 Certifications:
 - 💎 [IBM: Big Data Engineer Certificate](https://www.credly.com/badges/fc48a19c-7138-41fc-a574-50a3689212d4)
 - 💎 [IBM: Data Engineering Professional Certificate](https://www.credly.com/badges/9dd4efab-869b-4563-a902-742b725df84e)
-- 💎 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/earner/earned/badge/dad4f794-fd16-4d8d-8333-f65b9b1ef800)
+- 💎 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/dad4f794-fd16-4d8d-8333-f65b9b1ef800)
 - 💎 [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B4ZBF4PQ4P9B)
 
 
