@@ -116,6 +116,7 @@
 - 💎 [IBM: Data Engineering Professional Certificate](https://www.credly.com/badges/9dd4efab-869b-4563-a902-742b725df84e)
 - 💎 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/dad4f794-fd16-4d8d-8333-f65b9b1ef800)
 - 💎 [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B4ZBF4PQ4P9B)
+- 💎 [Search with Generative AI](https://partner.cloudskillsboost.google/public_profiles/a9ebc9c9-e379-4983-b2d6-14bd4cdb9f4e/badges/8296600?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
 
 <br>
