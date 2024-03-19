@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 
 
-- 💻 I’m passionate about **Data Engineering, Cloud Computing and DevOps** 
+- 💻 I’m passionate about **Data Engineering, AI, Cloud Computing and DevOps** 
 
 - 📫 Reach me at **ismail.tachafine22@gmail.com**
 
