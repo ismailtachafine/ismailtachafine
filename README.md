@@ -123,8 +123,6 @@
 
 ## 🤝 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/ismail-tachafine-687439235/" target="blank">
-    <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/ahmed-belgani/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
