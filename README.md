@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **ismail.tachafine22@gmail.com**
 
-- 📄 View my **[Linkedin](https://www.linkedin.com/in/ismail-tachafine-687439235/)** profil
+- 📄 View my **[LinkedIn](https://www.linkedin.com/in/ismail-tachafine-687439235/)** profil
 
 <br>
 
