@@ -10,7 +10,7 @@
 
 ## 😎 About me:
 
-- 🏫 I am a 3rd Year Student of the Data Engineering Degree at ENSIAS in Rabat
+- 🏫 I am a Data Engineering Student at ENSIAS in Rabat
 
 - 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 
 
