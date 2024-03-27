@@ -12,7 +12,7 @@
 
 - 🏫 I am a Data Engineering Student at ENSIAS in Rabat
 
-- 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 
+- 🔭 I’m currently in an **GenAI Internship in Capgemini** 
 
 - 💻 I’m passionate about **Data Engineering, AI, Cloud Computing and DevOps** 
 
